@@ -42,8 +42,6 @@ Dataset obsahuje najmä tieto typy údajov:
 
 Surové dáta boli najskôr spracované do normalizovaného relačného modelu, ktorý je znázornený na entitno-relačnom diagrame (ERD).
 
-Miesto pre obrázok:
-
 ![](https://github.com/1Parad0x/database_project-dsrg/blob/main/img/erd_schema.png)
 
 Normalizovaný model obsahuje samostatné tabuľky pre:
@@ -75,8 +73,6 @@ Faktová tabuľka obsahuje metriky a odvodené ukazovatele, napríklad:
 * počet nemocníc,
 * poradie nemocnice v rámci štátu,
 * celkový počet nemocníc v danom štáte.
-
-Miesto pre obrázok:
 
 ![](https://github.com/1Parad0x/database_project-dsrg/blob/main/img/star_schema.png)
 
