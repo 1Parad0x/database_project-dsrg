@@ -44,7 +44,7 @@ Surové dáta boli najskôr spracované do normalizovaného relačného modelu, 
 
 Miesto pre obrázok:
 
-> Obrázok 1: Entitno-relačný diagram (ERD) – Normalizovaný model
+![](https://github.com/1Parad0x/database_project-dsrg/blob/main/img/erd_schema.png)
 
 Normalizovaný model obsahuje samostatné tabuľky pre:
 
@@ -78,7 +78,7 @@ Faktová tabuľka obsahuje metriky a odvodené ukazovatele, napríklad:
 
 Miesto pre obrázok:
 
-> Obrázok 2: Schéma hviezdy (Star Schema) – Dimenzionálny model
+![](https://github.com/1Parad0x/database_project-dsrg/blob/main/img/star_schema.png)
 
 ---
 
